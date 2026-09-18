@@ -1,0 +1,9 @@
+services:
+  lens-log:
+    build: .
+    container_name: lens-log
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:6464:6464"
+    volumes:
+      - /mnt/user/appdata/lens-log:/data

@@ -1,0 +1,15 @@
+node_modules
+.pnpm-store
+dist
+coverage
+data
+.docker-data
+.git
+.env
+.env.*
+.DS_Store
+*.log
+*.tsbuildinfo
+lens-log-*.tar
+lens-log-*.tar.gz
+*.oci
