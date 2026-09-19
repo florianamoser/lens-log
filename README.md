@@ -2,6 +2,9 @@
 
 Lens Log is an offline-first field notebook for architectural photographers working with technical cameras and shift lenses.
 
+<img width="4680" height="2532" alt="lenslog_1 1 0" src="https://github.com/user-attachments/assets/39326723-cd5d-49dc-ba5c-b72a78612e1e" />
+
+
 ## The problem it solves
 
 A technical camera gives you precise control over perspective, but it usually cannot tell the digital back what happened to the lens. The horizontal and vertical shift, the selected aperture and often even the lens itself are missing from the image metadata.
